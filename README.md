@@ -25,16 +25,6 @@ I aim to specialize in **agent‑based AI systems**, **LLM integration**, and **
 
 ---
 
-## 🚀 Featured Projects  
-
-| Project | Description |
-|--------|-------------|
-| **CASS – Comprehensive Academic Advising System** | My capstone project: a full‑stack advising system that uses data processing and analytics (and potentially ML) to help predict academic risk and suggest career/curriculum guidance. |
-| **PawPal – Dog Management App** *(in progress)* | A concept for a mobile/web app to help pet owners manage dog care, subscriptions, boarding, vet bookings, grooming — envisioned as a full solution with backend, database, UI/UX, and future ML/automation extensions. |
-| **Experimental ML / Automation Prototypes** | Classification/regression models, computer‑vision tasks, or automation scripts — practical ML/engineering experience. |
-| **Proof‑of‑Concept Agent / Automation System** | Small LLM‑agent or automation workflow prototype with demo and architecture notes. |
-
-> 💡 **Tip:** Only pin 3–6 repos — preferably those most aligned with your current niche (ML / agents / backend) — to maintain clarity and focus.
 
 ---
 
@@ -55,8 +45,3 @@ I aim to specialize in **agent‑based AI systems**, **LLM integration**, and **
 Feel free to reach out if you want to collaborate on AI/ML projects, agent tooling, or software systems.  
 
 ---
-
-## 📊 GitHub Stats  
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelD0tcher&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelD0tcher&layout=compact&theme=radical)
