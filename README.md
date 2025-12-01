@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there, I'm Samuel 👋  
+**Aspiring AI/ML Engineer · Autonomous Agent Developer · Full‑Stack Software Engineer**  
 
-<!--
-**SamuelD0tcher/SamuelD0tcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 About Me  
+I’m a 2025 Computer Science graduate, passionate about building intelligent systems that combine machine learning, data pipelines, and automation. I enjoy developing autonomous agents and ML‑powered applications that solve real‑world problems.  
+I aim to specialize in **agent‑based AI systems**, **LLM integration**, and **end-to-end ML deployment**.  
 
-Here are some ideas to get you started:
+- 🎓 2025 First Class Honours — Computer Science  
+- 💼 Experienced in building web apps, data systems, and ML pipelines  
+- 🛠️ Skilled in Python, ML frameworks, backend & system design, API integrations, and more  
+- 🌱 Always learning: currently diving into LLM‑based agent frameworks, RAG, and automation workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills  
+
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **ML / Data / AI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Web / Backend** | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Software Engineering** | OOP (Java & Python), System Design, Data Modeling, Modular Architecture |
+| **Interests / Focus** | Autonomous agents, AI pipelines, Tool‑use agents, Data‑driven systems, End‑to-end ML deployment |
+
+---
+
+## 🚀 Featured Projects  
+
+| Project | Description |
+|--------|-------------|
+| **CASS – Comprehensive Academic Advising System** | My capstone project: a full‑stack advising system that uses data processing and analytics (and potentially ML) to help predict academic risk and suggest career/curriculum guidance. |
+| **PawPal – Dog Management App** *(in progress)* | A concept for a mobile/web app to help pet owners manage dog care, subscriptions, boarding, vet bookings, grooming — envisioned as a full solution with backend, database, UI/UX, and future ML/automation extensions. |
+| **Experimental ML / Automation Prototypes** | Classification/regression models, computer‑vision tasks, or automation scripts — practical ML/engineering experience. |
+| **Proof‑of‑Concept Agent / Automation System** | Small LLM‑agent or automation workflow prototype with demo and architecture notes. |
+
+> 💡 **Tip:** Only pin 3–6 repos — preferably those most aligned with your current niche (ML / agents / backend) — to maintain clarity and focus.
+
+---
+
+## 📈 What I’m Aiming For  
+- Build **production-ready agentic systems** (LLM-driven, tool-use, workflows)  
+- Work on **ML pipelines + data engineering + deployment**  
+- Contribute to **open-source agent / automation projects** or start my own  
+- Collaborate on **real-world AI/ML applications** (web, backend, automation, data pipelines)  
+- Continue learning **LLM integration, RAG, vector stores, agent orchestration, system design**
+
+---
+
+## 📫 Get In Touch  
+- **LinkedIn:** [Samuel Dotcher](https://www.linkedin.com/in/samuel-dotcher-26529b224)  
+- **GitHub:** [github.com/SamuelD0tcher](https://github.com/SamuelD0tcher)  
+- **Email:** samueldotcherr@gmail.com  
+
+Feel free to reach out if you want to collaborate on AI/ML projects, agent tooling, or software systems.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelD0tcher&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelD0tcher&layout=compact&theme=radical)
