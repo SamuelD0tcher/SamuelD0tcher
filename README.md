@@ -1,5 +1,5 @@
 # Hi there, I'm Samuel 👋  
-**Aspiring AI/ML Engineer · Autonomous Agent Developer · Software Engineer**  
+**Data Scientist · AI/ML Engineering**  
 
 ## 🔭 About Me  
 I’m a 2025 Computer Science graduate, passionate about building intelligent systems that combine machine learning, data pipelines, and automation. I enjoy developing autonomous agents and ML‑powered applications that solve real‑world problems.  
