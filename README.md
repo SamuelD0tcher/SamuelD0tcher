@@ -38,7 +38,7 @@ I aim to specialize in **agent‑based AI systems**, **LLM integration**, and **
 ---
 
 ## 📫 Get In Touch  
-- **LinkedIn:** [Samuel Dotcher](https://www.linkedin.com/in/samuel-dotcher-26529b224)  
+- **LinkedIn:** [Samuel Dotcher](www.linkedin.com/in/samueldotcher)  
 - **GitHub:** [github.com/SamuelD0tcher](https://github.com/SamuelD0tcher)  
 - **Email:** samueldotcherr@gmail.com  
 
