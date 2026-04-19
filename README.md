@@ -2,7 +2,7 @@
 **Data Scientist · AI/ML Engineering**  
 
 ## 🔭 About Me  
-I’m a 2025 Computer Science graduate, passionate about building intelligent systems that combine machine learning, data pipelines, and automation. I enjoy developing autonomous agents and ML‑powered applications that solve real‑world problems.  
+I’m a CompSci Honors Grad passionate about building intelligent systems that combine machine learning, data pipelines, and automation. I enjoy developing autonomous agents and ML‑powered applications that solve real‑world problems.  
 I aim to specialize in **agent‑based AI systems**, **LLM integration**, and **end-to-end ML deployment**.  
 
 - 🎓 2025 First Class Honours — Computer Science  
